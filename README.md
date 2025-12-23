@@ -15,7 +15,7 @@
 - 💻 Desarrollo principalmente con **PHP** y **JavaScript**
 - 🐍 Conocimientos en **Python**
 - 🎨 Uso **Bootstrap** para maquetación
-- 🧩 He utilizado **Vue** en uno de mis proyectos
+- 🧩 Estoy usando **Vue** en uno de mis proyectos
 - 🖥️ Windows en casa y **Linux** en clase (con intención de usar Linux como sistema principal)
 
 ---
@@ -50,22 +50,13 @@
 <div align="center">
 <p>Aplicación para realizar y gestionar exámenes tipo test.</p>
 <p><strong>PHP / JavaScript</strong></p>
-<a href="https://github.com/AntonioMorera" target="_blank">
+<a href="https://github.com/AntonioMorera/examenes_test" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-000?style=flat&logo=github&logoColor=white">
 </a>
 </div>
 </td>
 
-<td width="50%">
-<h3 align="center">Puzzles 3D</h3>
-<div align="center">
-<p>Proyecto sencillo de puzzles en 3D.</p>
-<p><strong>JavaScript</strong></p>
-<a href="https://github.com/AntonioMorera" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-000?style=flat&logo=github&logoColor=white">
-</a>
-</div>
-</td>
+
 </tr>
 </table>
 
