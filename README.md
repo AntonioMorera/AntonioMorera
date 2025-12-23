@@ -53,6 +53,8 @@
 <a href="https://github.com/AntonioMorera/examenes_test" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-000?style=flat&logo=github&logoColor=white">
 </a>
+  [![Visitar ExámenesTest](https://img.shields.io/badge/Visitar-Página-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://examenestests.infinityfreeapp.com/)
+
 </div>
 </td>
 
