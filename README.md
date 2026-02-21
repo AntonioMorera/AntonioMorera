@@ -13,8 +13,7 @@
   <h2>🚀 Estudiante de 2º DAW | Aspirante a Full Stack Developer</h2>
   <p>📍 Lanzarote, Canarias (España)</p>
   
-  <!-- NUEVO Stats que funciona -->
-  <img src="https://github-states-generator.vercel.app/api?username=AntonioMorera&theme=dark&show_icons=true&hide_border=true&hide_progress=true&title_color=58a6ff" width="85%" alt="GitHub Stats">
+ 
   
   <p>📫 <strong>Contacto:</strong> <a href="mailto:antoniomorera784@gmail.com">antoniomorera784@gmail.com</a></p>
 </div>
