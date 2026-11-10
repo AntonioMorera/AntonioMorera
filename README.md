@@ -1,131 +1,138 @@
-<!-- Header con ancho completo -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=150&section=header&text=Hola,+Soy+Antonio&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=65" width="100%" alt="Header">
-</div>
 
-<div align="center">
-  
-  <!-- Tu tarjeta SVG tamaño 450 -->
-  <img src="https://githubcard.com/AntonioMorera.svg?d=EnvXbl5W" 
-     alt="GitHub Card" 
-     style="width: 100%; max-width: 900px;">
-  
-  <h2>🚀 Estudiante de 2º DAW | Aspirante a Full Stack Developer</h2>
-  <p>📍 Lanzarote, Canarias (España)</p>
-  
- 
-  
-  <p>📫 <strong>Contacto:</strong> <a href="mailto:antoniomorera784@gmail.com">antoniomorera784@gmail.com</a></p>
-</div>
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f6feb,100:58A6FF&height=240&section=header&text=Antonio%20Morera&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Full-Stack%20·%20Lanzarote%20🌴&descSize=22&descAlignY=60)
 
-<hr>
-
-## 🌟 Sobre Mí
-Estudiante de Desarrollo de Aplicaciones Web con enfoque en crear aplicaciones web de alto rendimiento y útiles.
-
-🧑‍💻 Estudiante de 2º de Desarrollo de Aplicaciones Web (DAW)  
-🌱 Aprendiendo más sobre Laravel, Vue.js y arquitectura moderna  
-🚀 Interesado en roles full-stack y backend  
-💡 Apasionado por resolver problemas con código limpio y eficiente  
-
-<hr>
-
-## ⚙️ Tech Stack
-
-### 📖 Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🎨 Frontend
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
-### 🗄️ Data Bases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🧩 Frameworks and Libraries
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
-
-### 🖥️ Hosting
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🚀 Deploy
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![InfinityFree](https://img.shields.io/badge/InfinityFree-FF6F61?style=for-the-badge&logo=infinity&logoColor=white)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### 🌍 Work Environment
-#### 🧑‍💻 Personal IDE
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-#### 💻 Operating Systems
-![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
-![Kubuntu](https://img.shields.io/badge/Kubuntu-0079C1?style=for-the-badge&logo=kubuntu&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-<hr>
-
-## 📌 Proyectos Destacados
-
-### 🧪 ExámenesTest
-**Aplicación web para crear, gestionar y realizar exámenes tipo test con corrección automática.**
-
-<div>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-</div>
-
-<div>
-  <a href="https://github.com/AntonioMorera/examenes_test" target="_blank">
-    <img src="https://img.shields.io/badge/📂_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio">
-  </a>
-  <a href="https://examenestests.infinityfreeapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Sitio_Web-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Sitio Web">
-  </a>
-</div>
-
-<hr>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  <!-- Gráfico de actividad -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AntonioMorera&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Gráfico de actividad">
-  
-  <br>
-
-  
-</div>
+<a href="https://antonio-morera-marrero.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&height=60&lines=Hola%2C+soy+Antonio+👋;Desarrollo+apps+web+listas+para+producción+🚀;Next.js+·+React+·+Vue+3+·+Laravel+💻;Del+diseño+de+la+BD+al+despliegue+🗄️;Desde+Lanzarote+para+el+mundo+🌍" alt="Typing SVG" />
+</a>
 
 <br>
 
-<div align="center">
-  <h3>✨ "El código es poesía lógica que da vida a ideas" ✨</h3>
-  
-  <div style="margin: 20px 0;">
-    <a href="https://github.com/AntonioMorera?tab=repositories" target="_blank">
-      <img src="https://img.shields.io/badge/⭐_Explora_mis_proyectos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explora mis proyectos">
-    </a>
-    <a href="https://github.com/AntonioMorera/examenes_test" target="_blank">
-      <img src="https://img.shields.io/badge/🚀_Ver_ExámenesTest-0066CC?style=for-the-badge&logo=github&logoColor=white" alt="Ver ExámenesTest">
-    </a>
-  </div>
-  
+![Visitas](https://komarev.com/ghpvc/?username=AntonioMorera&color=58a6ff&style=for-the-badge&label=VISITAS)
+![Seguidores](https://img.shields.io/github/followers/AntonioMorera?style=for-the-badge&logo=github&color=1f6feb&label=SEGUIDORES)
+![Estrellas](https://img.shields.io/github/stars/AntonioMorera?style=for-the-badge&logo=github&color=f1c40f&label=ESTRELLAS)
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://antonio-morera-marrero.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antonio-morera)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aantoniio04)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniomorera784@gmail.com)
+
 </div>
 
-<!-- Footer con ancho completo -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🌟 Sobre mí
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+Desarrollo aplicaciones web **de principio a fin**: del diseño de la base de datos al despliegue. Trabajo con el ecosistema JavaScript (**Next.js, React, Vue 3**) en el frontend y con **Laravel, Node.js** y bases de datos relacionales en el backend, priorizando código mantenible y tiempos de carga rápidos.
+
+🎓 Técnico en Desarrollo de Aplicaciones Web · CIFP Zonzamas (2023 – 2025)<br>
+💼 Prácticas en **Orion AIoT** (Next.js / React) y **Miart Canarias** (PHP)<br>
+🌱 Ahora mismo profundizando en Next.js, Laravel y arquitectura moderna<br>
+📫 Busco oportunidades como desarrollador **full‑stack**
+
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://github.com/AntonioMorera.png" width="170" style="border-radius:50%" alt="Antonio Morera">
+
+**Antonio Morera Marrero**<br>
+*Full‑Stack Developer*<br>
+📍 Lanzarote, Islas Canarias
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## ⚙️ Tech Stack
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer&fontSize=30&fontColor=FFFFFF&fontAlignY=65" width="100%" alt="Footer">
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,tailwind,html,css&perline=8" alt="Frontend" />
+
+### 🧩 Backend y bases de datos
+<img src="https://skillicons.dev/icons?i=nodejs,laravel,php,postgres,mysql&perline=8" alt="Backend" />
+
+### 🛠️ Herramientas y despliegue
+<img src="https://skillicons.dev/icons?i=git,github,docker,vite,vercel,figma,linux,vscode&perline=8" alt="Herramientas" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📌 Proyectos destacados
+
+<div align="center">
+
+<sub>Aplicaciones reales en producción y los problemas que resuelven · pulsa una tarjeta para abrirla</sub>
+
+<br><br>
+
+<a href="https://examenestests.infinityfreeapp.com/"><img src="assets/card-examenestests.svg" width="48.5%" alt="examenestests"></a>
+<a href="https://antonio-morera-marrero.vercel.app/#proyectos"><img src="assets/card-meloffy.svg" width="48.5%" alt="Meloffy"></a>
+<br>
+<a href="https://antonio-morera-marrero.vercel.app/#proyectos"><img src="assets/card-telamonet.svg" width="48.5%" alt="TelamoNet"></a>
+<a href="https://antonio-morera-marrero.vercel.app/#proyectos"><img src="assets/card-orion.svg" width="48.5%" alt="Orion AIoT"></a>
+<br>
+<a href="https://antonio-morera-marrero.vercel.app/"><img src="assets/card-portfolio.svg" width="97.5%" alt="Portfolio"></a>
+
+<br><br>
+
+[![Código de examenestests](https://img.shields.io/badge/📂_Código_de_examenestests-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AntonioMorera/examenes_test)
+[![Ver todos los proyectos](https://img.shields.io/badge/🚀_VER_TODOS_MIS_PROYECTOS-1f6feb?style=for-the-badge)](https://antonio-morera-marrero.vercel.app/#proyectos)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 💼 Experiencia y formación
+
+<div align="center">
+<img src="assets/timeline.svg" width="97.5%" alt="Experiencia y formación">
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AntonioMorera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMorera&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=AntonioMorera&theme=tokyonight&hide_border=true" alt="Racha" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AntonioMorera&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=12" alt="Trofeos" />
+
+<br>
+
+![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=AntonioMorera&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+### ✨ _"El código es poesía lógica que da vida a ideas"_ ✨
+
+¿Tienes un proyecto en mente? **Envíame una señal al universo** 🚀
+
+[![Contactar](https://img.shields.io/badge/📫_HABLEMOS-antoniomorera784@gmail.com-58A6FF?style=for-the-badge)](mailto:antoniomorera784@gmail.com)
+[![Repositorios](https://img.shields.io/badge/⭐_MIS_REPOSITORIOS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AntonioMorera?tab=repositories)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=140&section=footer&fontSize=30&fontColor=FFFFFF&fontAlignY=65)
+
 </div>
