@@ -86,9 +86,6 @@ Desarrollo aplicaciones web **de principio a fin**: del diseño de la base de da
 
 <br><br>
 
-[![Código de examenestests](https://img.shields.io/badge/📂_Código_de_examenestests-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AntonioMorera/examenes_test)
-[![Ver todos los proyectos](https://img.shields.io/badge/🚀_VER_TODOS_MIS_PROYECTOS-1f6feb?style=for-the-badge)](https://antonio-morera-marrero.vercel.app/#proyectos)
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
