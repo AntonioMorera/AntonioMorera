@@ -77,10 +77,10 @@ Desarrollo aplicaciones web **de principio a fin**: del diseño de la base de da
 <br><br>
 
 <a href="https://examenestest.vercel.app/"><img src="assets/card-examenestests.svg" width="48.5%" alt="examenestests"></a>
-<a href="https://antonio-morera-marrero.vercel.app/#proyectos"><img src="assets/card-meloffy.svg" width="48.5%" alt="Meloffy"></a>
+<a href="https://meloffy.com/"><img src="assets/card-meloffy.svg" width="48.5%" alt="Meloffy"></a>
 <br>
-<a href="https://antonio-morera-marrero.vercel.app/#proyectos"><img src="assets/card-telamonet.svg" width="48.5%" alt="TelamoNet"></a>
-<a href="https://antonio-morera-marrero.vercel.app/#proyectos"><img src="assets/card-orion.svg" width="48.5%" alt="Orion AIoT"></a>
+<a href="https://telamonet.vercel.app/home"><img src="assets/card-telamonet.svg" width="48.5%" alt="TelamoNet"></a>
+<a href="https://orionaiot.com/es/home/"><img src="assets/card-orion.svg" width="48.5%" alt="Orion AIoT"></a>
 <br>
 <a href="https://antonio-morera-marrero.vercel.app/"><img src="assets/card-portfolio.svg" width="97.5%" alt="Portfolio"></a>
 
