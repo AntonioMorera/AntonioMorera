@@ -15,7 +15,7 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://antonio-morera-marrero.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antonio-morera)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antonio-morera-marrero)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aantoniio04)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniomorera784@gmail.com)
 
