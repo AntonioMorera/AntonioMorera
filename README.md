@@ -49,6 +49,20 @@ Desarrollo aplicaciones web **de principio a fin**: del diseño de la base de da
 </tr>
 </table>
 
+```typescript
+const developer = {
+  name: "Antonio Morera Marrero",
+  role: "Full-Stack Web Developer",
+  location: "Lanzarote, Canarias 🇮🇸",
+  stack: {
+    frontend: ["Next.js", "React", "Vue 3", "TypeScript", "Tailwind CSS"],
+    backend:  ["Laravel", "Node.js", "PHP", "REST APIs"],
+    database: ["PostgreSQL", "MySQL", "Drizzle ORM"]
+  },
+  portfolio: "https://antonio-morera-marrero.vercel.app"
+};
+```
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## ⚙️ Tech Stack
@@ -76,13 +90,14 @@ Desarrollo aplicaciones web **de principio a fin**: del diseño de la base de da
 
 <br><br>
 
-<a href="https://examenestest.vercel.app/"><img src="assets/card-examenestests.svg" width="48.5%" alt="examenestests"></a>
+<a href="https://deacapalla.vercel.app/"><img src="assets/card-de-aca-pa-alla.svg" width="48.5%" alt="De acá pa allá"></a>
 <a href="https://meloffy.com/"><img src="assets/card-meloffy.svg" width="48.5%" alt="Meloffy"></a>
 <br>
+<a href="https://examenestest.vercel.app/"><img src="assets/card-examenestests.svg" width="48.5%" alt="examenestests"></a>
 <a href="https://telamonet.vercel.app/home"><img src="assets/card-telamonet.svg" width="48.5%" alt="TelamoNet"></a>
-<a href="https://orionaiot.com/es/home/"><img src="assets/card-orion.svg" width="48.5%" alt="Orion AIoT"></a>
 <br>
-<a href="https://antonio-morera-marrero.vercel.app/"><img src="assets/card-portfolio.svg" width="97.5%" alt="Portfolio"></a>
+<a href="https://orionaiot.com/es/home/"><img src="assets/card-orion.svg" width="48.5%" alt="Orion AIoT"></a>
+<a href="https://antonio-morera-marrero.vercel.app/"><img src="assets/card-portfolio.svg" width="48.5%" alt="Portfolio"></a>
 
 <br><br>
 

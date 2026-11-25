@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="279" viewBox="0 0 480 279" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#161b22"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<linearGradient id="acc-deaca" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f97316"/><stop offset="1" stop-color="#fb923c"/></linearGradient>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="38"/></filter>
+<clipPath id="clip"><rect x="1" y="1" width="478" height="277" rx="18"/></clipPath>
+</defs>
+<rect x="1" y="1" width="478" height="277" rx="18" fill="url(#bg)"/>
+<g clip-path="url(#clip)">
+<circle cx="430" cy="20" r="90" fill="#f97316" filter="url(#blur)" opacity="0.32"><animate attributeName="opacity" values="0.22;0.42;0.22" dur="5s" repeatCount="indefinite"/></circle>
+<circle cx="30" cy="279" r="70" fill="#fb923c" filter="url(#blur)" opacity="0.16"/>
+<rect x="0" y="0" width="480" height="4" fill="url(#acc-deaca)"/>
+</g>
+<rect x="1" y="1" width="478" height="277" rx="18" fill="none" stroke="url(#acc-deaca)" stroke-opacity="0.55" stroke-width="1.5"/>
+
+<!-- Icon box with volcanic peak / convert symbol -->
+<rect x="28" y="28" width="46" height="46" rx="12" fill="#141416" stroke="#26262c" stroke-width="1"/>
+<!-- Stylized conversion arrows & volcano peak -->
+<path d="M41 43 L45 39 L49 43 M45 39 L45 53" fill="none" stroke="#f97316" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M61 59 L57 63 L53 59 M57 63 L57 49" fill="none" stroke="#fb923c" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+<text x="88" y="46" font-size="22" font-weight="700" fill="#f0f6fc">De acá pa allá</text>
+<rect x="88" y="55" width="105" height="20" rx="10" fill="#f97316" fill-opacity="0.2" stroke="#f97316" stroke-opacity="0.6"/>
+<text x="140.5" y="69" text-anchor="middle" font-size="11" font-weight="700" fill="#f97316">HERRAMIENTAS</text>
+
+<text x="28" y="108" font-size="14" fill="#c9d1d9">Suite PWA local-first para convertir y editar documentos</text>
+<text x="28" y="129" font-size="14" fill="#c9d1d9">PDF, imágenes, audio y vídeo en el navegador sin que</text>
+<text x="28" y="150" font-size="14" fill="#c9d1d9">los archivos salgan del dispositivo. Soporte offline.</text>
+
+<rect x="28" y="168" width="73" height="26" rx="13" fill="#ffffff" fill-opacity="0.14" stroke="#ffffff" stroke-opacity="0.55"/><text x="64.5" y="185.2" text-anchor="middle" font-size="12" font-weight="600" fill="#ffffff">Next.js</text>
+<rect x="109" y="168" width="88" height="26" rx="13" fill="#3178c6" fill-opacity="0.16" stroke="#3178c6" stroke-opacity="0.55"/><text x="153.0" y="185.2" text-anchor="middle" font-size="12" font-weight="600" fill="#58a6ff">TypeScript</text>
+<rect x="205" y="168" width="80" height="26" rx="13" fill="#06b6d4" fill-opacity="0.14" stroke="#06b6d4" stroke-opacity="0.55"/><text x="245.0" y="185.2" text-anchor="middle" font-size="12" font-weight="600" fill="#06b6d4">Tailwind</text>
+<rect x="293" y="168" width="56" height="26" rx="13" fill="#f97316" fill-opacity="0.16" stroke="#f97316" stroke-opacity="0.55"/><text x="321.0" y="185.2" text-anchor="middle" font-size="12" font-weight="600" fill="#fb923c">PWA</text>
+
+<line x1="28" y1="229" x2="452" y2="229" stroke="#30363d"/>
+<text x="28" y="257" font-size="14" font-weight="700" fill="#f97316">Ver herramienta →</text>
+</svg>
