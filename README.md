@@ -264,7 +264,8 @@ Formación profesional en desarrollo web full-stack, frameworks modernos y bases
 <br>
 
 <a href="mailto:antoniomorera784@gmail.com"><img src="assets/buttons/hablemos.svg" height="56" alt="Hablemos · antoniomorera784@gmail.com"></a>&nbsp;&nbsp;
-<a href="https://github.com/AntonioMorera?tab=repositories"><img src="assets/buttons/repositorios.svg" height="56" alt="Mis repositorios"></a>
+<a href="https://github.com/AntonioMorera?tab=repositories"><img src="assets/buttons/repositorios.svg" height="56" alt="Mis repositorios"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/aantoniio04"><img src="assets/buttons/instagram-footer.svg" height="56" alt="Instagram @aantoniio04"></a>
 
 <br><br>
 
