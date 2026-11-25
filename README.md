@@ -92,8 +92,9 @@ Suite PWA local-first para convertir y editar documentos PDF, imágenes, audio y
 <a href="https://deacapalla.vercel.app/"><b>Ver herramienta →</b></a>
 <br><br>
 <a href="https://github.com/AntonioMorera/AntonioMorera/releases/latest/download/DeAcaPalla.apk"><img src="https://img.shields.io/badge/Descargar_para-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="28"></a>
+<a href="https://github.com/AntonioMorera/AntonioMorera/releases/latest/download/DeAcaPalla.exe"><img src="https://img.shields.io/badge/Descargar_para-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" height="28"></a>
 <br>
-<sub>La app de Android incluye además descarga de música y vídeos de YouTube.</sub>
+<sub>Las apps de Android y Windows incluyen además descarga de música y vídeos de YouTube.</sub>
 <br><br>
 </td>
 <td width="50%" valign="top">
